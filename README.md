@@ -2,6 +2,10 @@
 
 A comprehensive virtual laboratory platform for PSIT (Pranveer Singh Institute of Technology) students, providing interactive simulations and learning materials for various computer science and engineering subjects.
 
+## 🌐 Live Demo
+
+Visit the live platform: [PSIT Virtual Labs](https://psit-virtual-labs.netlify.app/)
+
 ## 🌟 Features
 
 - **Interactive Simulations**: Hands-on virtual experiments for better understanding
