@@ -4,7 +4,7 @@ A comprehensive virtual laboratory platform for PSIT (Pranveer Singh Institute o
 
 ## 🌐 Live Demo
 
-Visit the live platform: [PSIT Virtual Labs](https://psit-virtual-labs.netlify.app/)
+Visit the live platform: [PSIT Virtual Labs](https://psit-virtual-labs-d63a34.netlify.app/)
 
 ## 🌟 Features
 
